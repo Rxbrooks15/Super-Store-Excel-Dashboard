@@ -1,7 +1,9 @@
-Methods Overview
+Methods
+Overview:
 The purpose of this project was to develop a comprehensive sales dashboard in Excel that accurately summarizes and analyzes sales and profit data. The dashboard facilitates insights into sales performance across different segments and states, provides detailed trend analysis, and employs various Excel functions to deliver a clear and actionable overview. The project required meticulous data organization, dynamic reporting using pivot tables, and effective visualization of sales trends and performance metrics.
 
 ![SuperstoreDashboard](https://github.com/user-attachments/assets/bfeb2390-9b8f-490c-8225-a3d1c6d52af3)
+
 Process
 Data Organization and Summarization:
 
@@ -16,9 +18,7 @@ State Analysis: Summarized sales and profit by state to pinpoint top-performing 
 Category Analysis: Analyzed sales and profit across different product categories (Furniture, Office Supplies, Technology).
 
 
-Sales and Profit Analysis:
-
-The dashboard features:
+Dshboard features:
 
 Sales and Profit Breakdown: Comprehensive views by segment, state, and category to identify trends and performance metrics.
 Monthly Trends: Analyzed monthly sales and profit changes to detect seasonal patterns and anomalies.
